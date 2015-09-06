@@ -22,3 +22,11 @@ if '__main__' == __name__:
                 repository_group_dict[item_of_section[0].replace('@', '')].append({'repo': section, 'permission': item_of_section[1]})
     print(user_name_dict['cshuang'])
     print(repository_group_dict['g_admin'])
+    user_repo_permission_dict = {}
+    for user in user_name_dict:
+        permission_repositories = collections.defaultdict(set) # should use set struct
+        for repo_group in user_name_dict[user]:
+            for repo_permission_pair in repository_group_dict[repo_group]:
+                permission_repositories[repo_permission_pair['permission']].add(repo_permission_pair['repo'])
+        user_repo_permission_dict[user] = permission_repositories
+    print(user_repo_permission_dict['peter_shen'])
