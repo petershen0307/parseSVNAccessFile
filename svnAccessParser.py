@@ -30,3 +30,8 @@ if '__main__' == __name__:
                 permission_repositories[repo_permission_pair['permission']].add(repo_permission_pair['repo'])
         user_repo_permission_dict[user] = permission_repositories
     print(user_repo_permission_dict['peter_shen'])
+    print([ee for ee in user_repo_permission_dict['peter_shen']['r'] if ee not in user_repo_permission_dict['peter_shen']['rw']])
+    with open('out.csv', mode='w') as output:
+        for user in user_repo_permission_dict:
+            output.write(user + ',r/w,' + ','.join(user_repo_permission_dict[user]['rw']) + '\n')
+            output.write(user + ',read only,' + ','.join([element for element in user_repo_permission_dict[user]['r'] if element not in user_repo_permission_dict[user]['rw']]) + '\n\n')
