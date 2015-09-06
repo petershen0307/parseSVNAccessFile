@@ -1,0 +1,300 @@
+,r/w,
+,read only,hd:/
+
+carmmy_lee,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+carmmy_lee,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+wendy_tsai,r/w,crystal_core:/,nudocuments:/,titan:/,golofa:/,davinci:/,federer:/,metadataplugin:/,muse:/,orion:/,sirius:/,temphugedata:/,nuagent:/
+wendy_tsai,read only,hd:/,nuuocorporateprotocol:/,trevally:/
+
+hsien,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+hsien,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+shaquille,r/w,innovare_packaging:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,odm:/,innovare:/,temphugedata:/,trevally:/,nuuocorporateprotocol:/,polaris:/
+shaquille,read only,dorcus26:/,davinci:/,hd:/,orion:/,nuagent:/
+
+aceyang,r/w,kernel:/,crystal_core:/,nudocuments:/,titan:/,davinci:/,metadataplugin:/,muse:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/,nuagent:/
+aceyang,read only,golofa:/,hd:/,federer:/,trevally:/
+
+jump,r/w,hephaestus:/,innovare_packaging:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,odm:/,innovare:/,temphugedata:/,trevally:/
+jump,read only,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,nuuocorporateprotocol:/,nuagent:/
+
+jimmy,r/w,crystal_core:/,nudocuments:/,titan:/,QA:/,metadataplugin:/,muse:/,temphugedata:/
+jimmy,read only,dorcus26:/,golofa:/,davinci:/,viper:/,monoceros:/,dresden:/,kernel:/,eznuuo:/,mobileclient:/,gaea:/,orion:/,odm:/,innovare:/,trevally:/,polaris:/,hephaestus:/,innovare_packaging:/,dorcus26:/branches/RTSPClient_20131218,hd:/,federer:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,nuuocorporateprotocol:/,sirius:/,troy:/
+
+owen,r/w,hephaestus:/,crystal_core:/,nudocuments:/,titan:/,dresden:/,mobileclient:/,metadataplugin:/,muse:/,gaea:/,nuuocorporateprotocol:/,polaris:/,temphugedata:/
+owen,read only,innovare_packaging:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,golofa:/,GitIsBetterDoNotUseThisRepo:/,hd:/,federer:/,orion:/,trevally:/,innovare:/,nuagent:/
+
+anders_chen,r/w,crystal_core:/,nudocuments:/,titan:/,davinci:/,federer:/,metadataplugin:/,muse:/,orion:/,sirius:/,temphugedata:/,nuagent:/
+anders_chen,read only,golofa:/,hd:/,nuuocorporateprotocol:/,trevally:/
+
+clyde,r/w,hephaestus:/,crystal_core:/,nudocuments:/,titan:/,davinci:/,metadataplugin:/,muse:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+clyde,read only,golofa:/,hd:/,federer:/,trevally:/
+
+roberthuang,r/w,temphugedata:/,nudocuments:/
+roberthuang,read only,
+
+lui,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,golofa:/,GitIsBetterDoNotUseThisRepo:/,federer:/,mobileclient:/,metadataplugin:/,muse:/,orion:/,gaea:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/,nuagent:/
+lui,read only,innovare_packaging:/,dorcus26:/,hd:/,innovare:/,trevally:/
+
+howen,r/w,nudocuments:/,golofa:/,davinci:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+howen,read only,nuagent:/
+
+nuuodebbiewei,r/w,federer:/,GitIsBetterDoNotUseThisRepo:/,trevally:/
+nuuodebbiewei,read only,crystal_core:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,hd:/,titan:/,metadataplugin:/,muse:/,nuuocorporateprotocol:/
+
+yida_liao,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,orion:/,trevally:/,sirius:/,temphugedata:/
+yida_liao,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,nuuocorporateprotocol:/,innovare:/
+
+david,r/w,temphugedata:/,nudocuments:/
+david,read only,
+
+roger_ko,r/w,nudocuments:/,eznuuo:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,GitIsBetterDoNotUseThisRepo:/,federer:/,mobileclient:/,gaea:/,orion:/,trevally:/,temphugedata:/
+roger_ko,read only,innovare_packaging:/,dorcus26:/,golofa:/,hd:/,innovare:/
+
+alex_tse,r/w,nudocuments:/,eznuuo:/,viper:/,federer:/,trevally:/,temphugedata:/
+alex_tse,read only,gaea:/,davinci:/,hd:/
+
+luee_lu,r/w,nudocuments:/,eznuuo:/,viper:/,federer:/,trevally:/,temphugedata:/
+luee_lu,read only,gaea:/,davinci:/,hd:/
+
+tianzuo,r/w,crystal_core:/,nudocuments:/,titan:/,davinci:/,federer:/,metadataplugin:/,muse:/,orion:/,sirius:/,temphugedata:/,nuagent:/
+tianzuo,read only,golofa:/,hd:/,nuuocorporateprotocol:/,trevally:/
+
+larry_huang,r/w,hephaestus:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,gaea:/,trevally:/,polaris:/,temphugedata:/
+larry_huang,read only,innovare_packaging:/,dorcus26:/,golofa:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+jerrylu,r/w,nudocuments:/,eznuuo:/,davinci:/,federer:/,mobileclient:/,gaea:/,orion:/,temphugedata:/
+jerrylu,read only,innovare_packaging:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,hd:/,trevally:/,innovare:/
+
+nuuoeva,r/w,federer:/,GitIsBetterDoNotUseThisRepo:/,trevally:/
+nuuoeva,read only,crystal_core:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,hd:/,titan:/,metadataplugin:/,muse:/,nuuocorporateprotocol:/
+
+josh_lin,r/w,hephaestus:/,innovare_packaging:/,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,viper:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,orion:/,odm:/,innovare:/,temphugedata:/,trevally:/
+josh_lin,read only,dorcus26:/,davinci:/,hd:/,gaea:/,nuuocorporateprotocol:/,nuagent:/
+
+amy_lin,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,odm:/,trevally:/,temphugedata:/
+amy_lin,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+kennychou,r/w,hephaestus:/,innovare_packaging:/,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,viper:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,innovare:/,temphugedata:/,nuuocorporateprotocol:/
+kennychou,read only,dorcus26:/,davinci:/,hd:/,gaea:/,orion:/,nuagent:/
+
+edgar_yu,r/w,orion:/,sirius:/
+edgar_yu,read only,golofa:/,nuuocorporateprotocol:/
+
+yzu1011543,r/w,federer:/,GitIsBetterDoNotUseThisRepo:/,trevally:/
+yzu1011543,read only,crystal_core:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,hd:/,titan:/,metadataplugin:/,muse:/,nuuocorporateprotocol:/
+
+xbelieve,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,golofa:/,viper:/,dresden:/,federer:/,metadataplugin:/,muse:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/
+xbelieve,read only,davinci:/,hd:/,gaea:/,nuagent:/
+
+ycchiou,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,golofa:/,davinci:/,hd:/,federer:/,viper:/,dresden:/,metadataplugin:/,muse:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/
+ycchiou,read only,gaea:/,nuagent:/
+
+rocking,r/w,crystal_core:/,nudocuments:/,titan:/,federer:/,metadataplugin:/,muse:/,orion:/,sirius:/,temphugedata:/,nuagent:/
+rocking,read only,golofa:/,davinci:/,hd:/,nuuocorporateprotocol:/,trevally:/
+
+wayne,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+wayne,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+gami,r/w,hephaestus:/,crystal_core:/,nudocuments:/,titan:/,viper:/,davinci:/,hd:/,metadataplugin:/,muse:/,orion:/,gaea:/,nuuocorporateprotocol:/,polaris:/,temphugedata:/,troy:/
+gami,read only,innovare_packaging:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,federer:/,mobileclient:/,trevally:/,innovare:/
+
+liwei_cheng,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+liwei_cheng,read only,innovare_packaging:/,crystal_core:/,dorcus26:/,golofa:/,titan:/,hd:/,metadataplugin:/,muse:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+iris,r/w,hephaestus:/,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,orion:/,temphugedata:/
+iris,read only,innovare_packaging:/,dorcus26:/,innovare:/,nuagent:/
+
+benchen,r/w,nudocuments:/,golofa:/,davinci:/,metadataplugin:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+benchen,read only,nuagent:/
+
+danny.chen,r/w,viper:/
+danny.chen,read only,gaea:/,davinci:/,hd:/,federer:/,trevally:/
+
+fred_hsu,r/w,temphugedata:/,gaea:/,nudocuments:/,polaris:/
+fred_hsu,read only,davinci:/,hd:/
+
+liju_chen,r/w,crystal_core:/,nudocuments:/,titan:/,golofa:/,hd:/,federer:/,dresden:/,metadataplugin:/,muse:/,trevally:/,sirius:/,temphugedata:/,nuuocorporateprotocol:/
+liju_chen,read only,davinci:/,orion:/,polaris:/,nuagent:/
+
+mike_su,r/w,innovare_packaging:/,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,viper:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,gaea:/,odm:/,innovare:/,temphugedata:/,trevally:/,nuuocorporateprotocol:/,troy:/
+mike_su,read only,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,nuagent:/
+
+jay,r/w,temphugedata:/,nudocuments:/
+jay,read only,
+
+mingli,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+mingli,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+banana,r/w,hephaestus:/,innovare_packaging:/,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,viper:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,gaea:/,trevally:/,innovare:/,temphugedata:/,polaris:/,nuagent:/
+banana,read only,dorcus26:/,golofa:/,hd:/,orion:/,nuuocorporateprotocol:/
+
+alexwang,r/w,nudocuments:/,eznuuo:/,viper:/,federer:/,trevally:/,sirius:/,temphugedata:/
+alexwang,read only,golofa:/,davinci:/,hd:/,gaea:/,orion:/,nuuocorporateprotocol:/
+
+hsichun_huang,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+hsichun_huang,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+buildbot,r/w,innovare_packaging:/,nudocuments:/,viper:/,federer:/,trevally:/,innovare:/,temphugedata:/
+buildbot,read only,dorcus26:/,golofa:/,davinci:/,monoceros:/,dresden:/,metadataplugin:/,kernel:/,crystal_core:/,eznuuo:/,QA:/,mobileclient:/,gaea:/,muse:/,orion:/,odm:/,polaris:/,hephaestus:/,titan:/,dorcus26:/branches/RTSPClient_20131218,hd:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,nuuocorporateprotocol:/,sirius:/,troy:/
+
+yuhsuan,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+yuhsuan,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+exiceworld,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,polaris:/,temphugedata:/
+exiceworld,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+bike,r/w,innovare_packaging:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,hd:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,odm:/,innovare:/,temphugedata:/,trevally:/
+bike,read only,dorcus26:/,davinci:/,orion:/,nuuocorporateprotocol:/,nuagent:/
+
+ycchen,r/w,temphugedata:/,nudocuments:/
+ycchen,read only,
+
+yipo_guo,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,orion:/,odm:/,trevally:/,temphugedata:/,polaris:/
+yipo_guo,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,innovare:/,nuuocorporateprotocol:/
+
+joseph_wu,r/w,hephaestus:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,golofa:/,GitIsBetterDoNotUseThisRepo:/,metadataplugin:/,muse:/,orion:/,odm:/,sirius:/,temphugedata:/,nuuocorporateprotocol:/
+joseph_wu,read only,innovare_packaging:/,dorcus26:/,hd:/,federer:/,innovare:/,trevally:/,nuagent:/
+
+keven,r/w,temphugedata:/,nudocuments:/
+keven,read only,
+
+hank,r/w,innovare_packaging:/,nudocuments:/,eznuuo:/,viper:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,innovare:/,temphugedata:/
+hank,read only,dorcus26:/,davinci:/,hd:/,gaea:/,orion:/,nuagent:/
+
+eugen_chen,r/w,temphugedata:/,gaea:/,davinci:/,nudocuments:/,polaris:/
+eugen_chen,read only,hd:/
+
+gim.huang,r/w,viper:/
+gim.huang,read only,gaea:/,davinci:/,hd:/,federer:/,trevally:/
+
+alice,r/w,crystal_core:/,nudocuments:/,titan:/,davinci:/,metadataplugin:/,muse:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+alice,read only,golofa:/,hd:/,federer:/,trevally:/
+
+aska,r/w,nudocuments:/,davinci:/,QA:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+aska,read only,dorcus26:/,golofa:/,viper:/,monoceros:/,dresden:/,metadataplugin:/,kernel:/,crystal_core:/,eznuuo:/,mobileclient:/,gaea:/,muse:/,odm:/,innovare:/,trevally:/,polaris:/,hephaestus:/,innovare_packaging:/,titan:/,dorcus26:/branches/RTSPClient_20131218,hd:/,federer:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,troy:/
+
+ray_lin,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+ray_lin,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+chinlung_li,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+chinlung_li,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/,polaris:/
+
+william_huang,r/w,gaea:/,nuuocorporateprotocol:/,polaris:/
+william_huang,read only,davinci:/,orion:/,hd:/
+
+caron.yang,r/w,viper:/
+caron.yang,read only,gaea:/,davinci:/,hd:/,federer:/,trevally:/
+
+mia,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+mia,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+koviankevin,r/w,trevally:/
+koviankevin,read only,
+
+kevinhu,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+kevinhu,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+yoyo_pan,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,mobileclient:/,trevally:/,temphugedata:/
+yoyo_pan,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,gaea:/,orion:/,innovare:/
+
+cshuang,r/w,viper:/,golofa:/,davinci:/,monoceros:/,dresden:/,metadataplugin:/,kernel:/,crystal_core:/,nudocuments:/,eznuuo:/,QA:/,mobileclient:/,gaea:/,muse:/,orion:/,odm:/,innovare:/,trevally:/,polaris:/,hephaestus:/,innovare_packaging:/,titan:/,dorcus26:/branches/RTSPClient_20131218,hd:/,federer:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/,troy:/
+cshuang,read only,dorcus26:/
+
+jerry,r/w,viper:/,golofa:/,davinci:/,metadataplugin:/,nudocuments:/,eznuuo:/,QA:/,mobileclient:/,gaea:/,orion:/,odm:/,innovare:/,trevally:/,polaris:/,innovare_packaging:/,dorcus26:/branches/RTSPClient_20131218,hd:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+jerry,read only,crystal_core:/,dorcus26:/,titan:/,federer:/,monoceros:/,muse:/
+
+luder,r/w,crystal_core:/,nudocuments:/,titan:/,golofa:/,hd:/,federer:/,dresden:/,metadataplugin:/,muse:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/
+luder,read only,davinci:/,polaris:/,nuagent:/
+
+luke_hung,r/w,innovare_packaging:/,trevally:/,innovare:/
+luke_hung,read only,
+
+sheena_kuo,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+sheena_kuo,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+danji_cao,r/w,innovare_packaging:/,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+danji_cao,read only,dorcus26:/,golofa:/,orion:/,innovare:/
+
+hcyou,r/w,temphugedata:/,nudocuments:/
+hcyou,read only,
+
+hammer_wu,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+hammer_wu,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/,polaris:/
+
+jeffrey_chen,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,odm:/,temphugedata:/
+jeffrey_chen,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,trevally:/,innovare:/
+
+bipo,r/w,nudocuments:/,davinci:/,federer:/,gaea:/,orion:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/,nuagent:/
+bipo,read only,dorcus26:/,golofa:/,viper:/,monoceros:/,dresden:/,metadataplugin:/,kernel:/,crystal_core:/,eznuuo:/,QA:/,mobileclient:/,muse:/,odm:/,innovare:/,polaris:/,hephaestus:/,innovare_packaging:/,titan:/,dorcus26:/branches/RTSPClient_20131218,hd:/,GitIsBetterDoNotUseThisRepo:/,sirius:/,troy:/
+
+timchang,r/w,temphugedata:/,nudocuments:/,QA:/
+timchang,read only,
+
+svnsync,r/w,innovare_packaging:/,nudocuments:/,viper:/,federer:/,trevally:/,innovare:/,temphugedata:/
+svnsync,read only,dorcus26:/,golofa:/,davinci:/,monoceros:/,dresden:/,metadataplugin:/,kernel:/,crystal_core:/,eznuuo:/,QA:/,mobileclient:/,gaea:/,muse:/,orion:/,odm:/,polaris:/,hephaestus:/,titan:/,dorcus26:/branches/RTSPClient_20131218,hd:/,nuagent:/,GitIsBetterDoNotUseThisRepo:/,nuuocorporateprotocol:/,sirius:/,troy:/
+
+marco,r/w,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,trevally:/,temphugedata:/
+marco,read only,innovare_packaging:/,dorcus26:/,golofa:/,orion:/,innovare:/
+
+mark,r/w,innovare_packaging:/,nudocuments:/,eznuuo:/,viper:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,hd:/,GitIsBetterDoNotUseThisRepo:/,federer:/,gaea:/,orion:/,trevally:/,innovare:/,temphugedata:/
+mark,read only,dorcus26:/,davinci:/,nuagent:/
+
+stanley_chen,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+stanley_chen,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/
+
+strong,r/w,crystal_core:/,nudocuments:/,titan:/,viper:/,hd:/,federer:/,dresden:/,metadataplugin:/,muse:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/
+strong,read only,golofa:/,davinci:/,gaea:/,polaris:/,nuagent:/
+
+jerrylum,r/w,viper:/
+jerrylum,read only,gaea:/,davinci:/,hd:/,federer:/,trevally:/
+
+webclient,r/w,
+webclient,read only,innovare_packaging:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,innovare:/
+
+yilin,r/w,hephaestus:/,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,golofa:/,GitIsBetterDoNotUseThisRepo:/,federer:/,orion:/,temphugedata:/,nuagent:/
+yilin,read only,innovare_packaging:/,dorcus26:/,trevally:/,innovare:/
+
+likang_chen,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,viper:/,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+likang_chen,read only,innovare_packaging:/,dorcus26:/,davinci:/,hd:/,gaea:/,orion:/,innovare:/,nuuocorporateprotocol:/,nuagent:/
+
+piz,r/w,innovare_packaging:/,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,hd:/,GitIsBetterDoNotUseThisRepo:/,federer:/,viper:/,metadataplugin:/,muse:/,odm:/,innovare:/,temphugedata:/,trevally:/,polaris:/
+piz,read only,dorcus26:/,davinci:/,gaea:/,orion:/,nuuocorporateprotocol:/,nuagent:/
+
+edgar,r/w,crystal_core:/,nudocuments:/,titan:/,hd:/,dresden:/,metadataplugin:/,muse:/,orion:/,trevally:/,temphugedata:/
+edgar,read only,davinci:/,federer:/,nuuocorporateprotocol:/
+
+audy_huang,r/w,crystal_core:/,nudocuments:/,titan:/,hd:/,federer:/,dresden:/,metadataplugin:/,muse:/,trevally:/,nuuocorporateprotocol:/,temphugedata:/
+audy_huang,read only,golofa:/,davinci:/,polaris:/,nuagent:/
+
+bill_li,r/w,crystal_core:/,nudocuments:/,titan:/,dorcus26:/branches/RTSPClient_20131218,GitIsBetterDoNotUseThisRepo:/,federer:/,metadataplugin:/,muse:/,trevally:/,temphugedata:/
+bill_li,read only,innovare_packaging:/,dorcus26:/,golofa:/,davinci:/,hd:/,orion:/,innovare:/,nuuocorporateprotocol:/,polaris:/
+
+emily_chang,r/w,temphugedata:/,nudocuments:/
+emily_chang,read only,
+
+cryu,r/w,nudocuments:/,eznuuo:/,viper:/,golofa:/,davinci:/,hd:/,federer:/,gaea:/,orion:/,odm:/,trevally:/,temphugedata:/
+cryu,read only,nuagent:/
+
+chaco,r/w,crystal_core:/,nudocuments:/,eznuuo:/,titan:/,golofa:/,davinci:/,metadataplugin:/,muse:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+chaco,read only,hd:/,federer:/,trevally:/,nuagent:/
+
+cell_yu,r/w,innovare_packaging:/,nudocuments:/,eznuuo:/,viper:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,hd:/,GitIsBetterDoNotUseThisRepo:/,federer:/,gaea:/,trevally:/,innovare:/,temphugedata:/
+cell_yu,read only,dorcus26:/,davinci:/,orion:/,nuagent:/
+
+peter_shen,r/w,nudocuments:/,golofa:/,davinci:/,federer:/,orion:/,nuuocorporateprotocol:/,sirius:/,temphugedata:/
+peter_shen,read only,nuagent:/,trevally:/
+
+james,r/w,temphugedata:/,nudocuments:/
+james,read only,
+
+ted_chang,r/w,nudocuments:/,viper:/,davinci:/,federer:/,metadataplugin:/,orion:/,trevally:/,sirius:/,temphugedata:/,nuuocorporateprotocol:/
+ted_chang,read only,golofa:/,hd:/,gaea:/
+
+conan,r/w,hephaestus:/,nudocuments:/,dorcus26:/branches/RTSPClient_20131218,golofa:/,GitIsBetterDoNotUseThisRepo:/,temphugedata:/
+conan,read only,innovare_packaging:/,dorcus26:/,orion:/,nuuocorporateprotocol:/,innovare:/,nuagent:/
+
+nuuobrian,r/w,federer:/,GitIsBetterDoNotUseThisRepo:/,trevally:/
+nuuobrian,read only,crystal_core:/,dorcus26:/,dorcus26:/branches/RTSPClient_20131218,davinci:/,hd:/,titan:/,metadataplugin:/,muse:/,nuuocorporateprotocol:/
+
